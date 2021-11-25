@@ -8,8 +8,6 @@ virtualenv -p python3 venv
 
 python manage.py runserver
 
---/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/
-
 # FrontEnd Settings
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
