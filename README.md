@@ -1,3 +1,5 @@
+![ToDo App Image](https://user-images.githubusercontent.com/37306773/143587116-339a798a-b926-4463-88fb-434c651e29d6.png)
+
 This app was provided from this site -> https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
 
 # BackEnd Settings
