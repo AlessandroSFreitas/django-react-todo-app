@@ -1,3 +1,5 @@
+This app was provided from this site -> https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+
 # BackEnd Settings
 
 ### Create a virtualenv
@@ -7,8 +9,6 @@ virtualenv -p python3 venv
 ### Execute server
 
 python manage.py runserver
-
---/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/--/
 
 # FrontEnd Settings
 
